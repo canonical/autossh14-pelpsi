@@ -34,12 +34,6 @@ description: |
 # Platforms that package targets
 platforms:
   amd64:
-  arm64:
-  armhf:
-  i386:
-  ppc64el:
-  riscv64:
-  s390x:
 
 parts:
   dariuszd-autossh14:
